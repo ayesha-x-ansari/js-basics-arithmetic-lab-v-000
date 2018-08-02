@@ -15,3 +15,5 @@ You should NOT try to redefine any of the above variables.
 
   const randomInteger = Math.floor(randomNumber);
 
+  const randomUserID = randomInteger + 1000000001;
+
