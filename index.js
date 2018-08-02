@@ -13,4 +13,5 @@ You should NOT try to redefine any of the above variables.
 
   const randomNumber =  Math.floor(Math.random() * 20) + 1;
 
-  
+  const randomInteger = Math.floor(randomNumber);
+
